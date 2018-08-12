@@ -83,3 +83,4 @@ bool funkcje(Generator* & wsk_generator) {
 }
 
 #endif
+

@@ -218,3 +218,4 @@ Wykres & Wykres::operator = (const Wykres & wykres) {
 }
 
 #endif SFML_H
+

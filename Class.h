@@ -705,3 +705,4 @@ MersenneTwister & MersenneTwister::operator = (const MersenneTwister & generator
 }
 
 #endif
+

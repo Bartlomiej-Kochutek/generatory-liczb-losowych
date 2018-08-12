@@ -164,3 +164,4 @@ unsigned int PierwiastekPierwotny(unsigned int n) {
 }
 
 #endif 
+
